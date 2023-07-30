@@ -1,0 +1,6 @@
+.flexStyle {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: calc(100% - 8rem);
+}
