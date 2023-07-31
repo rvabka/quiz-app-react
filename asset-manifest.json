@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/quiz-app-react/static/css/main.10befea7.css",
-    "main.js": "/quiz-app-react/static/js/main.29abee11.js",
-    "static/media/graystar.png": "/quiz-app-react/static/media/graystar.c2a54446ac8b3d9bf5c6.png",
-    "static/media/yellowstar.png": "/quiz-app-react/static/media/yellowstar.93a70c1aac7b60496ee7.png",
-    "static/media/fullstar.png": "/quiz-app-react/static/media/fullstar.80e30fa01e84d034e7c3.png",
-    "static/media/level03.svg": "/quiz-app-react/static/media/level03.de2c77e3285736f01289cb2acacf107f.svg",
-    "static/media/level04.svg": "/quiz-app-react/static/media/level04.c7ac0e24451c804b2ac7dfb9cbb5cd2a.svg",
-    "static/media/level02.svg": "/quiz-app-react/static/media/level02.780b73ba74f21ca8e15200550aee58fa.svg",
-    "static/media/logo.svg": "/quiz-app-react/static/media/logo.b2f3a8d8aeab9e0b67b88a29ac8eb0dc.svg",
-    "static/media/level06.svg": "/quiz-app-react/static/media/level06.27d12c5648af44d7e0d91517c2ddec25.svg",
-    "static/media/level05.svg": "/quiz-app-react/static/media/level05.d4dbed1171efbbacaeb0124494565320.svg",
-    "static/media/level01.svg": "/quiz-app-react/static/media/level01.01b4e8f8a593d8c0edd316eed17facd3.svg",
-    "static/media/lockIcon.svg": "/quiz-app-react/static/media/lockIcon.0eb600708010ebe0d6b5a8074356512f.svg",
-    "static/media/reload.svg": "/quiz-app-react/static/media/reload.10ce56494fbdcf12547c4a98cf76b47a.svg",
-    "static/media/home.svg": "/quiz-app-react/static/media/home.7b6ebc82b76d44f921d947ae3eff9440.svg",
-    "static/media/levels.svg": "/quiz-app-react/static/media/levels.9462e54101b36a494eba0c6036e81dfb.svg",
-    "index.html": "/quiz-app-react/index.html",
-    "static/media/play.svg": "/quiz-app-react/static/media/play.7790f29b19fe9fe25eab602c3470277b.svg",
-    "main.10befea7.css.map": "/quiz-app-react/static/css/main.10befea7.css.map",
-    "main.29abee11.js.map": "/quiz-app-react/static/js/main.29abee11.js.map"
+    "main.css": "/static/css/main.10befea7.css",
+    "main.js": "/static/js/main.48aa01bb.js",
+    "static/media/graystar.png": "/static/media/graystar.c2a54446ac8b3d9bf5c6.png",
+    "static/media/yellowstar.png": "/static/media/yellowstar.93a70c1aac7b60496ee7.png",
+    "static/media/fullstar.png": "/static/media/fullstar.80e30fa01e84d034e7c3.png",
+    "static/media/level03.svg": "/static/media/level03.de2c77e3285736f01289cb2acacf107f.svg",
+    "static/media/level04.svg": "/static/media/level04.c7ac0e24451c804b2ac7dfb9cbb5cd2a.svg",
+    "static/media/level02.svg": "/static/media/level02.780b73ba74f21ca8e15200550aee58fa.svg",
+    "static/media/logo.svg": "/static/media/logo.b2f3a8d8aeab9e0b67b88a29ac8eb0dc.svg",
+    "static/media/level06.svg": "/static/media/level06.27d12c5648af44d7e0d91517c2ddec25.svg",
+    "static/media/level05.svg": "/static/media/level05.d4dbed1171efbbacaeb0124494565320.svg",
+    "static/media/level01.svg": "/static/media/level01.01b4e8f8a593d8c0edd316eed17facd3.svg",
+    "static/media/lockIcon.svg": "/static/media/lockIcon.0eb600708010ebe0d6b5a8074356512f.svg",
+    "static/media/reload.svg": "/static/media/reload.10ce56494fbdcf12547c4a98cf76b47a.svg",
+    "static/media/home.svg": "/static/media/home.7b6ebc82b76d44f921d947ae3eff9440.svg",
+    "static/media/levels.svg": "/static/media/levels.9462e54101b36a494eba0c6036e81dfb.svg",
+    "index.html": "/index.html",
+    "static/media/play.svg": "/static/media/play.7790f29b19fe9fe25eab602c3470277b.svg",
+    "main.10befea7.css.map": "/static/css/main.10befea7.css.map",
+    "main.48aa01bb.js.map": "/static/js/main.48aa01bb.js.map"
   },
   "entrypoints": [
     "static/css/main.10befea7.css",
-    "static/js/main.29abee11.js"
+    "static/js/main.48aa01bb.js"
   ]
 }
